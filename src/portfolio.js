@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/",
-  linkedin: "https://www.linkedin.com/in//",
+  linkedin: "https://www.linkedin.com/",
   gmail: "0@gmail.com",
   gitlab: "https://gitlab.com/",
   facebook: "https://www.facebook.com/",
@@ -87,7 +87,7 @@ https://fontawesome.com/icons?d=gallery */
     {
       skillName: "docker",
       fontAwesomeClassname: "fab fa-docker"
-    }
+    },
   ],
   display: true // Set false to hide this section, defaults to true
 };
