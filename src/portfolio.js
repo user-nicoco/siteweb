@@ -148,7 +148,7 @@ const workExperiences = {
     {
       role: "role",
       company: "entreprise",
-      companylogo: require("./assets/images/"),
+      companylogo: require("./assets/images/stanfordLogo.png"),
       date: "date",
       desc: "description",
       descBullets: [
@@ -159,7 +159,7 @@ const workExperiences = {
     {
       role: "role",
       company: "Quora",
-      companylogo: require("./assets/images/"),
+      companylogo: require("./assets/images/stanfordLogo.png"),
       date: "date",
       desc: "p"
     },
