@@ -169,7 +169,7 @@ const workExperiences = {
       companylogo: require(""),
       date: "date",
       desc: "description"
-    }
+    },
   ]
 };
 
